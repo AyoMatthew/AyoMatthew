@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    text-decoration: lightseagreen;
+    color: limegreen;
+    background-color: linen;
+}
+img{
+    margin-left: 550px;
+}
+button{
+    padding: 10px;
+    background-color: ;
+    text-decoration: mintcream;
+    border: 2px solid grey;
+    border-radius: 5px; 
+}
+
+button:hover{
+    background-color:white;
+    color: black;
+}
+body{
+    background-color: moccasin;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 20px;
+    border: 2px skyblue solid;
+    padding:4px 8px;
+}
+ul{
+    margin-left: 1000px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+li a:hover{
+    color: black;
+    background-color: burlywood;
+    font-weight: bold;
+    border-radius: 5px;
+}
