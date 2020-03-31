@@ -5,7 +5,8 @@ h1{
     background-color: linen;
 }
 img{
-    margin-left: 550px;
+/*     margin-left: 550px; */
+    margin:auto;
 }
 button{
     padding: 10px;
